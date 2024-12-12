@@ -1,41 +1,40 @@
-<!-- Banner ou Citação -->
+<!-- Banner or Quote -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/XXXXX/banne_imagem.png" alt="Banner" width="100%" />
-  <h2>✨ Olá, eu sou [Seu Nome]! ✨</h2>
+  <img src="https://user-images.githubusercontent.com/XXXXX/banner_image.png" alt="Banner" width="100%" />
+  <h2>✨ Hi, I'm Pedro Haubert! ✨</h2>
   <blockquote>
-    "Sua mente é programável – se você não a programar, alguém a programará por você."
+    "Your mind is programmable – if you don't program it, someone else will."
   </blockquote>
 </div>
 
 ---
 
-<!-- Breve apresentação -->
+<!-- Brief Introduction -->
 <div align="center">
   <p>
-    Sou estudante de Sistemas de Informação (ou a área que você estuda) e estou empolgado(a) em iniciar minha carreira e contribuir com projetos reais.  
-    Pronto(a) para aprender e crescer na área de desenvolvimento de software.
+    I am an Information Systems student (or your area of study) and I'm excited to start my career and contribute to real projects.  
+    Ready to learn and grow in the field of software development.
   </p>
   <p>
-    Atualmente utilizo principalmente <strong>Java</strong>, mas também tenho familiaridade com outras linguagens como JavaScript, Python e HTML/CSS.
+    I primarily use <strong>Java</strong>, but I am also familiar with other languages such as JavaScript, Python, and HTML/CSS.
   </p>
 </div>
 
 ---
 
-<!-- Seções de Redes Sociais -->
-### 🌐 Conecte-se comigo
+<!-- Social Links -->
+### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=flat&logo=firefox&logoColor=white)](https://seu-portfolio.com)  
-[![E-mail](https://img.shields.io/badge/E--mail-000000?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:seuemail@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio.com)  
+[![E-mail](https://img.shields.io/badge/E--mail-000000?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:youremail@gmail.com)
 
 ---
 
 <!-- Tech Stack -->
 ### 💻 Tech Stack
 
-Aqui você pode usar badges para cada tecnologia. Você pode encontrar mais badges em [Shields.io](https://shields.io/) ou ícones no [Simple Icons](https://simpleicons.org/).
+Feel free to use badges for each technology. You can find more badges at [Shields.io](https://shields.io/) or icons at [Simple Icons](https://simpleicons.org/).
 
 **Front-end:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
@@ -48,7 +47,7 @@ Aqui você pode usar badges para cada tecnologia. Você pode encontrar mais badg
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 
-**Outras ferramentas:**  
+**Other Tools:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
@@ -59,25 +58,25 @@ Aqui você pode usar badges para cada tecnologia. Você pode encontrar mais badg
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 
-<!-- Badge para status do Github -->
+<!-- GitHub Status Badges -->
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=phmb444&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmb444&layout=compact&theme=radical" />
 </div>
 
-*Substitua "SEU_USUARIO" pelo seu nome de usuário do GitHub.*
+*Replace "YOUR_USERNAME" with your GitHub username.*
 
 ---
 
-<!-- Destaque de Projetos (Opcional) -->
-### 🌟 Projetos em Destaque
+<!-- Featured Projects (Optional) -->
+### 🌟 Featured Projects
 
-- [Nome do Projeto 1](https://github.com/SEU_USUARIO/Projeto1): Breve descrição do projeto.
-- [Nome do Projeto 2](https://github.com/SEU_USUARIO/Projeto2): Breve descrição do projeto.
+- [Project Name 1](https://github.com/YOUR_USERNAME/Project1): Brief project description.
+- [Project Name 2](https://github.com/YOUR_USERNAME/Project2): Brief project description.
 
 ---
 
-<!-- Mensagem Final -->
+<!-- Final Message -->
 <div align="center">
-  <p>Obrigado pela visita! Sinta-se à vontade para explorar meus repositórios e contribuir. Sempre aberto(a) a feedbacks e oportunidades!</p>
+  <p>Thank you for visiting! Feel free to explore my repositories and contribute. Always open to feedback and opportunities!</p>
 </div>
